@@ -1,2 +1,3 @@
-# SpaceShooterCmakeRaylib
-A simple space shooter game intended to improve my concepts in learning the C++ build tool generator, Cmake and to implement game physics and logic using raylib.
+# Space Impact game Remastered for hackerspace orientation.
+
+In this project I'm targetting to remaster the classic NOKIA 3310 space Impact trilogy conept in a PC / WEB version.
